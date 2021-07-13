@@ -175,9 +175,10 @@ body {
 
 @media (min-width: 64rem) {
 	.card {
-		height: 31.25rem;
-		width: 57.5rem;
 		display: flex;
+		width: 57.5rem;
+		height: 31.25rem;
+		margin: 8.4375rem auto 0;
 	}
 
 	.card::after {
