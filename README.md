@@ -6,7 +6,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,10 +22,6 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
-
-### Screenshot
-
-![](./screenshot-project.png)
 
 ### Links
 
@@ -53,6 +48,6 @@ I learned how to make a functional accordion, with the max-height css property a
 
 ## Author
 
-- GitHub - [@zip](https://github.com/2zip)
+- GitHub - [@2zip](https://github.com/2zip)
 - Frontend Mentor - [@2zip](https://www.frontendmentor.io/profile/2zip)
 - Twitter - [@alexwtfmarius](https://twitter.com/alexwtfmarius)
