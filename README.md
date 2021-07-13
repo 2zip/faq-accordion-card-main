@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-faq-accordion-card-using-html-css-flexbox-and-js-FkdxyKGcz)
+- [Live Site URL](https://2zip.github.io/faq-accordion-card-main/)
 
 ## My process
 
