@@ -50,7 +50,7 @@ body {
 	position: absolute;
 	left: 51%;
 	transform: translate(-55%, -55%);
-	background-image: url(../resources/images/illustration-woman-online-mobile.svg);
+	background-image: url(../images/illustration-woman-online-mobile.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -61,7 +61,7 @@ body {
 	height: 6.5rem;
 	width: 90%;
 	position: absolute;
-	background-image: url(../resources/images/bg-pattern-mobile.svg);
+	background-image: url(../images/bg-pattern-mobile.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center;
@@ -109,7 +109,7 @@ body {
 
 .question::after {
 	content: "";
-	background-image: url(../resources/images/icon-arrow-down.svg);
+	background-image: url(../images/icon-arrow-down.svg);
 	width: 0.625rem;
 	height: 0.4375rem;
 	transition: 0.3s;
@@ -159,7 +159,7 @@ body {
 	transform: rotate(180deg);
 }
 
-/* Tablet Layout */
+/* Tablet Layout (768w - 1024w) */
 
 @media (min-width: 48rem) and (max-width: 64rem) {
 	.woman-illustration {
@@ -171,7 +171,7 @@ body {
 	}
 }
 
-/* Desktop Layout */
+/* Desktop Layout (1024w) */
 
 @media (min-width: 64rem) {
 	.card {
@@ -183,7 +183,7 @@ body {
 
 	.card::after {
 		content: "";
-		background-image: url(../resources/images/illustration-box-desktop.svg);
+		background-image: url(../images/illustration-box-desktop.svg);
 		position: absolute;
 		top: 40%;
 		left: -10%;
@@ -200,7 +200,7 @@ body {
 	}
 
 	.woman-illustration {
-		background-image: url(../resources/images/illustration-woman-online-desktop.svg);
+		background-image: url(../images/illustration-woman-online-desktop.svg);
 		top: 53%;
 		left: 38%;
 		width: 29.5rem;
@@ -208,7 +208,7 @@ body {
 	}
 
 	.bg-pattern {
-		background-image: url(../resources/images/bg-pattern-desktop.svg);
+		background-image: url(../images/bg-pattern-desktop.svg);
 		background-size: auto;
 		width: 60.375rem;
 		height: 59.0625rem;
