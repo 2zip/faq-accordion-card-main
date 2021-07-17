@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/responsive-faq-accordion-card-using-html-css-flexbox-and-js-FkdxyKGcz)
-- [Live Site URL](https://2zip.github.io/faq-accordion-card-main/)
+- [Live Site URL](https://mariussma.github.io/faq-accordion-card-main/)
 
 ## My process
 
