@@ -138,6 +138,7 @@ body {
 }
 
 .attribution a {
+	color: var(--very-dark-desaturated-blue);
 	font-weight: 700;
 	text-decoration: none;
 }
