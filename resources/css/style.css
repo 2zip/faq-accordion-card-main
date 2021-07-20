@@ -170,9 +170,9 @@ body {
 	}
 }
 
-/* Tablet Layout (600w) */
+/* Tablet Layout (600w, 768h) */
 
-@media (min-width: 37.5rem) {
+@media (min-width: 37.5rem) and (min-height: 48rem) {
 	.card {
 		position: absolute;
 		margin-top: 0;
