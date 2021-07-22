@@ -30,7 +30,7 @@ body {
 	flex-direction: column;
 	font-size: 0.75rem;
 	min-height: 100vh;
-	background-image: linear-gradient(var(--soft-violet), var(--soft-blue));
+	background: linear-gradient(var(--soft-violet), var(--soft-blue));
 }
 
 .card {
